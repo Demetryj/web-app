@@ -9,6 +9,15 @@ export const getPath = (value: string): string => {
     case 'Profile':
       return 'profile';
 
+    case 'Головна':
+      return '/';
+
+    case 'Новини':
+      return 'news';
+
+    case 'Профіль':
+      return 'profile';
+
     default:
       return '/';
   }
