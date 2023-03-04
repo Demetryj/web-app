@@ -1,0 +1,31 @@
+{
+  "navigation": {
+    "home": "Home",
+    "news": "News",
+    "profile": "Profile"
+  },
+
+  "login": "Log in",
+
+  "translations": "Translations",
+
+  "news": {
+    "loadMoreBtn": "Load more"
+  },
+
+  "post": {
+    "deleteBtn": "Delete"
+  },
+
+  "profile": {
+    "logoutBtn": "Log out"
+  },
+
+  "formLogin": {
+    "username": "Username",
+    "password": "Password",
+    "error": "Username or password entered incorrectly!",
+    "submitBtn": "Login",
+    "closeBtn": "Close"
+  }
+}

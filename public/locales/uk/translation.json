@@ -1,0 +1,31 @@
+{
+  "navigation": {
+    "home": "Головна",
+    "news": "Новини",
+    "profile": "Профіль"
+  },
+
+  "login": "Увійти",
+
+  "translations": "Переклади",
+
+  "news": {
+    "loadMoreBtn": "Завантажити ще"
+  },
+
+  "post": {
+    "deleteBtn": "Видалити"
+  },
+
+  "profile": {
+    "logoutBtn": "Вийти"
+  },
+
+  "formLogin": {
+    "username": "Ім'я користувача",
+    "password": "Пароль",
+    "error": "Ім'я користувача або пароль введено невірно!",
+    "submitBtn": "Увійти",
+    "closeBtn": "Закрити"
+  }
+}
