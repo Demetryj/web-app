@@ -11,6 +11,10 @@ i18n
     debug: true,
     fallbackLng: 'en',
 
+    backend: {
+      loadPath: '/web-app/locales/{{lng}}/translation.json',
+    },
+
     detection: {
       order: ['localStorage', 'cookie'],
       caches: ['localStorage', 'cookie'],
