@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <Provider store={store}>
-    <BrowserRouter basename="/web-app">
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Suspense fallback={null}></Suspense>
       <App />
     </BrowserRouter>
